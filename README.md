@@ -1,3 +1,5 @@
 
-<a href="https://rojansapkota.com.np" target="_blank">
-<img src="https://profile-counter.glitch.me/YouTube-Email-Scraper/count.svg" alt="Visitor Counter"/>
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/RojanGamingYT/YouTube-Email-Scraper"</a>
+  <img src="https://profile-counter.glitch.me/RojanGamingYT_YouTube-Email-Scraper/count.svg" />
+</p>
