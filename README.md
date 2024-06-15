@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/RojanGamingYT_YouTube-Email-Scraper/count.svg" />
 </p>
 
-[![](demo.mp4)](https://github.com/RojanGamingYT/YouTube-Email-Scraper/blob/78bcc15483db4028bebf0336dbcfcfe2ac8f2388/demo.mp4)
+https://github.com/RojanGamingYT/YouTube-Email-Scraper/assets/71162720/d5b531cc-a7ee-4183-bf5a-94bcb80c7387
 
 ## Installation
 ```sh-session
