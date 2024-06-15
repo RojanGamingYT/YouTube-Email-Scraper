@@ -4,6 +4,8 @@
   <img src="https://profile-counter.glitch.me/RojanGamingYT_YouTube-Email-Scraper/count.svg" />
 </p>
 
+## Demo of Email Scraping...
+
 https://github.com/RojanGamingYT/YouTube-Email-Scraper/assets/71162720/d5b531cc-a7ee-4183-bf5a-94bcb80c7387
 
 ## Installation
@@ -30,7 +32,6 @@ NOTE: Make sure you have Python 3.9+, Added to Path, Google Chrome, and Chrome d
 - [x] - **Download Python:** [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) **or** [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 - [x] - **Download [Google Chrome](https://www.google.com/chrome/) and [Chrome Driver](https://sites.google.com/chromium.org/driver/downloads)**
 - [x] - **100% Safe!**
-- [x] - **Might Have Some Bugs**
 
 > **DO NOT** Install this From Another Place Than This Page, Expect it to be **Hacked/Scammed.**
 
